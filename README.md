@@ -4,6 +4,7 @@ This is a repository storing the lecture slides for "Machine, Data, and Learning
 1. 1/4/25
 2. 1/8/25
 3. 1/11/25
+4. 1/15/25
 
 # Notes
 
